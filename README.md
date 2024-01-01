@@ -1,4 +1,4 @@
-# Alzhiemers-Disease-Detection-using-Lohistic-Regressione
+# Alzhiemers-Disease-Detection-using-Logistic-Regression
 
 STEP-1:
 Open the MATLAB code files to train the models by selecting the duseased cluster(inside IMAGES DATABASE folder).
